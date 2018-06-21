@@ -1,2 +1,2 @@
 # OpenFOAM
-Various classes for OpenFOAM which I arbitrarily uploaded.
+Various classes for OpenFOAM(-2.2.1 most likely) which I arbitrarily upload.
